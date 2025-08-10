@@ -1,4 +1,11 @@
+# 💫 Hi 👋, I'm Vansh Sharma
+**A passionate Full Stack Developer || Python Developer from India**
 
+Email Me 👉 ✉️ **vanshvats.tech** For Collaboration/Project or Anything Else. 😊😊
+- 🌱 **I’m currently learning:** Numpy
+- 📫 **How to reach me:** vanshvats.tech@gmail.com
+- 😄 **Pronouns:** Vansh Sharma
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanshsharma.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sharma-855aa0293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshvats.tech) 
 
