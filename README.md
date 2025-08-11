@@ -8,7 +8,12 @@
 </p>
 
 <!-- CODING GIF -->
-<img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"/>
+  <!-- CODING GIF -->
+<picture>
+  <source media="(max-width: 600px)" srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="180">
+  <img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+</picture>
+
 
 ---
 
@@ -82,10 +87,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vanshsharma-tech&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
