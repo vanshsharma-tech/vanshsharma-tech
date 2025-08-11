@@ -8,12 +8,12 @@
 </p>
 
 <!-- CODING GIF -->
-  <!-- CODING GIF -->
 <picture>
-  <source media="(max-width: 600px)" srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="180">
+  <!-- Mobile version -->
+  <source media="(max-width: 600px)" srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+  <!-- Desktop version -->
   <img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 </picture>
-
 
 ---
 
