@@ -10,7 +10,9 @@
 <!-- CODING GIF -->
 <picture>
   <!-- Mobile version -->
-  <source media="(max-width: 600px)" align="center" width='100' srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+  <p align="center">
+    <source media="(max-width: 600px)"  width='100' srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+  </p>
   <!-- Desktop version -->
   <img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 </picture>
