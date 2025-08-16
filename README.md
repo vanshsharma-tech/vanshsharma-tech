@@ -10,7 +10,7 @@
 <!-- CODING GIF -->
 <picture>
   <!-- Mobile version -->
-  <source media="(max-width: 600px)" srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+  <source media="(max-width: 600px)" align="center" width='100' srcset="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
   <!-- Desktop version -->
   <img align="right" alt="Coding" width="300" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 </picture>
@@ -88,9 +88,13 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshsharma-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vanshsharma-tech&theme=dark&hide_border=false" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshsharma-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vanshsharma-tech&theme=dark&hide_border=false" height="160" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharma-tech&layout=compact&theme=dark&hide_border=false&langs_count=8" height="160" />
+</p>
+
 
 ---
 
@@ -98,6 +102,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vanshsharma-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
+<details>
+  <summary>🔝 Top Contributed Repo</summary>
+  <br/>
+  <img  src="https://github-contributor-stats.vercel.app/api?username=vanshsharma-tech&limit=7&theme=dark&combine_all_yearly_contributions=true" />
+</details>
 
 ---
 
@@ -105,6 +114,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
+
 ---
 
 ## ⭐ Support My Work
