@@ -105,5 +105,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
+---
+
+## ⭐ Support My Work
+
+If you like my projects, don’t forget to **star ⭐ my repositories** on GitHub — it helps me stay motivated and grow!  
+
+[![GitHub stars](https://img.shields.io/github/stars/vanshsharma-tech?affiliations=OWNER&style=social)](https://github.com/vanshsharma-tech)
 
 
