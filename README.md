@@ -79,6 +79,8 @@
 | 🎓 [College Website (Live Production)](https://www.spcpgcollege.in) | A **real-world**, actively used college platform with **Admin Panel**, Google Authentication via Firebase, OTP-based email verification, password reset, image upload (Cloudinary + Multer), and high Google search ranking | React.js, Node.js, Express.js, MongoDB, JWT, Firebase Auth, Cloudinary, Multer, HTML, CSS, Tailwind CSS |
 | 💼 [Portfolio Website](https://vanshsharma.tech) | My personal portfolio showcasing **skills, projects, and achievements** with modern UI/UX | HTML, Tailwind CSS, Bootstrap, JS, Reactjs, Nodejs and Express |
 | 🏢 [JK-Homes Real Estate Platform](https://jk-homes.netlify.app) | A property sales website for **JK-Homes** with OTP login, password reset, Google Authentication, and fully responsive design | React.js, Node.js, Express.js, MongoDB, JWT, HTML, TailwindCss |
+| 🧮 Calculator App | A simple yet functional **Calculator** that performs basic arithmetic operations with a clean UI | HTML, CSS, JavaScript |
+| ⏰ Digital Clock | A **real-time Digital Clock** displaying the current time dynamically with responsive design | HTML, CSS, JavaScript |
 
 
 ---
