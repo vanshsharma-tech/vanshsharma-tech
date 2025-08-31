@@ -20,7 +20,7 @@
 ---
 
 ### 🌟 About Me  
-- 💻 **Currently Learning:** Numpy, C++ (DSA)  
+- 💻 **Currently Learning:** Django 
 - ⚡ **Love:** React, TailwindCSS, Python, and Backend Development  
 - 📫 **Reach Me At:** [vanshvats.tech@gmail.com](mailto:vanshvats.tech@gmail.com)  
 - 😄 **Pronouns:** He/Him (Vansh Sharma)  
